@@ -23,6 +23,7 @@ public class Main {
 
 
         String usuario, contraseña, nombreCompleto, documentoIdentidad, diaDescanso, noGanaNada = "";
+        String prueba = "";
         double valorHora, cantidadHoras, salarioNeto, salarioBruto,auxilioTransporte, bonificacion = 0;
         double deduccionPensionSalud = 54190*2;
         double salarioMinimo = 1400000;
